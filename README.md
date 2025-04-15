@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Message Board App
 
 This is a simple Flutter application that allows users to post messages on a board. It is designed to be a lightweight, easy-to-use app for sharing thoughts and updates.
@@ -57,3 +58,6 @@ To integrate Firebase with the app, make sure you have completed the following:
 ## License
 
 This project is licensed under the MIT License.
+=======
+# flutter-firebase-messageboard
+>>>>>>> 59cc92b2378bf947c66f9b80af916c468750de57
